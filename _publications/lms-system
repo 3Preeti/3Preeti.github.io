@@ -1,0 +1,49 @@
+---
+title: "Multi-Role Based Learning Management System"
+collection: publications
+permalink: /publication/lms-system
+date: 2025-01-01
+venue: "Bonam Venkata Chalamayya Engineering College"
+excerpt: "A web-based LMS with role-based access control for administrators, faculty, and students."
+paperurl: "/files/lms-paper.pdf"
+---
+
+## Authors
+Preeti Sunar, Vulluri Navya Sri, Shake Ismail, Palepu Dhana Sekhar, Amjuri Lakshmiprasad
+
+## Abstract
+A multi-role learning management system plays an important role in supporting academic activities within modern educational institutions. This system enables effective interaction among administrators, faculty members, and students using a web-based platform. The system is developed using Java, Spring Boot, and MySQL, incorporating secure authentication and role-based authorization. It improves efficiency, data consistency, and reduces manual workload.
+
+## Key Features
+- Role-Based Access Control (Admin, Faculty, Student)
+- Secure authentication and authorization
+- Course management and enrollment system
+- Learning material sharing
+- Academic progress tracking
+- RESTful API-based architecture
+
+## Technologies Used
+- Java
+- Spring Boot
+- MySQL
+- RESTful Services
+
+## System Architecture
+The system follows a layered architecture:
+- Presentation Layer (UI)
+- Application Layer (Business Logic)
+- Data Layer (Database)
+
+## Results
+- Login response time: ~420 ms
+- Course enrollment time: ~510 ms
+- Role-based access accuracy: 100%
+- Supports 50+ concurrent users
+
+## Conclusion
+The system improves academic management by automating processes and ensuring secure role-based interaction. It is scalable, efficient, and suitable for educational institutions.
+
+## Future Work
+- Learning analytics integration
+- Mobile application support
+- Cloud deployment
